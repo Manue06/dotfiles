@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emmanuellemapelli@gmail.com
+	name = Emmanuelle MAPELLI
